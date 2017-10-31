@@ -1,4 +1,4 @@
-# 简介
+# IoT 平台简介
 
 <https://thingsboard.io/>
 
